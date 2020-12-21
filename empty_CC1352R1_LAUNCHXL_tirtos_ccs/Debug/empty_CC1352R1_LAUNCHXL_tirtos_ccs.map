@@ -1,7 +1,7 @@
 ******************************************************************************
                   TI ARM Linker Unix v20.2.1                   
 ******************************************************************************
->> Linked Sun Dec 20 17:27:42 2020
+>> Linked Mon Dec 21 10:55:13 2020
 
 OUTPUT FILE NAME:   <empty_CC1352R1_LAUNCHXL_tirtos_ccs.out>
 ENTRY POINT SYMBOL: "ResetISR"  address: 0000270d
