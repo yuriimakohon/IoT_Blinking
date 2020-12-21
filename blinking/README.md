@@ -1,6 +1,7 @@
-# Blinking
+## Example Summary
 
-Fireware for LAUNCHXL-CC1352R1 with blinking red diode
+This example is intended to be a starting point for new development where
+a fuller set of kernel features and debug capabilities are enabled.
 
 ## Peripherals & Pin Assignments
 
